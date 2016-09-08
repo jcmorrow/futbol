@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/basic_stadium.unity
+  isLoaded: 1
+  isActive: 1
